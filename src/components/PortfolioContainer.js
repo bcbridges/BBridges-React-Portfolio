@@ -22,7 +22,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className="container">
+    <div className="container vh-100 justify-content-between">
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer />
