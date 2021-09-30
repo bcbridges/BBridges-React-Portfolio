@@ -4,7 +4,7 @@ import "./portfolio.css";
 export default function Portfolio() {
   return (
     <>
-      <h1 className="contianer row justify-content-around">My Work</h1>
+      <h1 className="container row justify-content-around">My Work</h1>
       <section className="container row justify-content-around projects">
         <div className="card col-5 row justify-content-evenly" id="proj1">
           <h3 className="text-light text-center">Delishery</h3>
