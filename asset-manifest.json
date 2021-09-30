@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.js": "/BBridges-React-Portfolio/static/js/main.161b0b15.chunk.js",
-    "main.js.map": "/BBridges-React-Portfolio/static/js/main.161b0b15.chunk.js.map",
+    "main.css": "/BBridges-React-Portfolio/static/css/main.7555dfc8.chunk.css",
+    "main.js": "/BBridges-React-Portfolio/static/js/main.777e0807.chunk.js",
+    "main.js.map": "/BBridges-React-Portfolio/static/js/main.777e0807.chunk.js.map",
     "runtime-main.js": "/BBridges-React-Portfolio/static/js/runtime-main.d6990292.js",
     "runtime-main.js.map": "/BBridges-React-Portfolio/static/js/runtime-main.d6990292.js.map",
     "static/css/2.f2512455.chunk.css": "/BBridges-React-Portfolio/static/css/2.f2512455.chunk.css",
-    "static/js/2.e91c1102.chunk.js": "/BBridges-React-Portfolio/static/js/2.e91c1102.chunk.js",
-    "static/js/2.e91c1102.chunk.js.map": "/BBridges-React-Portfolio/static/js/2.e91c1102.chunk.js.map",
+    "static/js/2.78e78d04.chunk.js": "/BBridges-React-Portfolio/static/js/2.78e78d04.chunk.js",
+    "static/js/2.78e78d04.chunk.js.map": "/BBridges-React-Portfolio/static/js/2.78e78d04.chunk.js.map",
     "index.html": "/BBridges-React-Portfolio/index.html",
     "static/css/2.f2512455.chunk.css.map": "/BBridges-React-Portfolio/static/css/2.f2512455.chunk.css.map",
-    "static/js/2.e91c1102.chunk.js.LICENSE.txt": "/BBridges-React-Portfolio/static/js/2.e91c1102.chunk.js.LICENSE.txt"
+    "static/css/main.7555dfc8.chunk.css.map": "/BBridges-React-Portfolio/static/css/main.7555dfc8.chunk.css.map",
+    "static/js/2.78e78d04.chunk.js.LICENSE.txt": "/BBridges-React-Portfolio/static/js/2.78e78d04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6990292.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.e91c1102.chunk.js",
-    "static/js/main.161b0b15.chunk.js"
+    "static/js/2.78e78d04.chunk.js",
+    "static/css/main.7555dfc8.chunk.css",
+    "static/js/main.777e0807.chunk.js"
   ]
 }
