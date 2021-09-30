@@ -7,7 +7,7 @@ export default function Footer() {
         href="https://github.com/bcbridges"
         target="_blank"
         rel="noreferrer"
-        className="col-2"
+        className="col-1 btn btn-outline-dark rounded mx-5"
       >
         GitHub
       </a>
@@ -15,7 +15,7 @@ export default function Footer() {
         href="https://www.linkedin.com/in/brice-bridges/"
         target="_blank"
         rel="noreferrer"
-        className="col-2"
+        className="col-1 btn btn-outline-dark rounded mx-5"
       >
         LinkedIn
       </a>
@@ -23,7 +23,7 @@ export default function Footer() {
         href="mailto:bbridgesdev@gmail.com"
         target="_blank"
         rel="noreferrer"
-        className="col-2"
+        className="col-1 btn btn-outline-dark rounded mx-5"
       >
         Email
       </a>
