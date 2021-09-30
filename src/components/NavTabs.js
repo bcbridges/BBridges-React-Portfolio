@@ -1,4 +1,5 @@
 import React from "react";
+import "./navtabs.css";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
@@ -8,6 +9,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           href="#home"
           onClick={() => handlePageChange("Home")}
           className={currentPage === "Home" ? "nav-link active" : "nav-link"}
+          id="navBtn"
         >
           Home
         </a>
@@ -17,16 +19,18 @@ function NavTabs({ currentPage, handlePageChange }) {
           href="#portfolio"
           onClick={() => handlePageChange("Portfolio")}
           className={currentPage === "About" ? "nav-link active" : "nav-link"}
+          id="navBtn"
         >
           Portfolio
         </a>
       </li>
       <li className="nav-item">
         <a
-          href="/resume.pdf"
+          href={process.env.PUBLIC_URL + "/resume.pdf"}
           target="_blank"
           onClick={() => handlePageChange("Resume")}
           className={currentPage === "Resume" ? "nav-link active" : "nav-link"}
+          id="navBtn"
         >
           Resume
         </a>
@@ -36,6 +40,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           href="#contact"
           onClick={() => handlePageChange("Contact")}
           className={currentPage === "Contact" ? "nav-link active" : "nav-link"}
+          id="navBtn"
         >
           Contact
         </a>
